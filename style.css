@@ -1,0 +1,52 @@
+body {
+background-color:bisque;
+}
+
+h1{
+    color:blueviolet;
+    font-family:fantasy;
+    width: 500px;
+    hight:600px;
+    margin:center;  
+}
+
+p {
+    color: blueviolet;
+    font-family: fantasy;
+    margin:auto
+}
+
+h3{
+    color:violet;
+}
+
+input {
+    color:lightpink;
+    width:150px;
+    font-family: cursive;
+}
+      
+strong {
+    color:violet;
+    font-family: fantasy;   
+}
+
+img {
+    width:300px;
+    margin:center;
+    border: 2px solid violet; 
+    background-color: lightpink;
+}
+
+button {
+    width:300px;
+    border: 2px solid violet;
+    margin: auto;
+    color:violet;
+}
+
+div {
+    border: 2px solid violet;
+    background-color: lightpink;
+}
+
